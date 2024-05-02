@@ -2,7 +2,7 @@
 
 ![Project Image](ProjectImage.png)
 
-This is a simple Morse code converter program written in C++. It allows you to convert text to Morse code and vice versa. Additionally, it supports custom Morse code mappings.
+This is a simple Morse code converter program written in both C and C++. It allows you to convert text to Morse code and vice versa. Additionally, it supports custom Morse code mappings.
 
 ## 🛠️ Features
 
@@ -35,12 +35,25 @@ This is a simple Morse code converter program written in C++. It allows you to c
 
 ## 📋 Usage
 
-#### <div align="center">Compilation</div>
+#### <div align="center">Compilation in C</div>
+
+To compile the program, use the following command:
+
+```bash
+gcc -pthread -Wall src/main.cpp src/morse.cpp src/thread_utils.cpp -o morse_converter
+```
+
+#### <div align="center">Compilation in C++</div>
 
 To compile the program, use the following command:
 
 ```bash
 g++ -pthread -Wall src/main.cpp src/morse.cpp src/thread_utils.cpp -o morse_converter
+```
+
+#### <div align="center">Compilation using Makefile</div>
+```bash
+make
 ```
 
 #### <div align="center">Execution</div>
