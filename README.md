@@ -129,12 +129,16 @@ Morse code:
 -.-.
 ..-
 ```
-## 👨‍💻 Author
-- Paschalis
-  
 ## Notes
 
 - Make sure to separate Morse code characters with spaces when providing input.
+  
+## 👨‍💻 Author
+- Paschalis
+  
+## 🤝 Contributing
+
+Contributions to improve the project are welcome! Please feel free to fork the repository, make changes, and submit a pull request.
 
 ## 📜 License
 
