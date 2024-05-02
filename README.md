@@ -129,7 +129,9 @@ Morse code:
 -.-.
 ..-
 ```
-
+## 👨‍💻 Author
+- Paschalis Μ
+  
 ## Notes
 
 - Make sure to separate Morse code characters with spaces when providing input.
