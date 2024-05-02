@@ -130,7 +130,7 @@ Morse code:
 ..-
 ```
 ## 👨‍💻 Author
-- Paschalis Μ
+- Paschalis
   
 ## Notes
 
