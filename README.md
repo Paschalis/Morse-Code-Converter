@@ -134,7 +134,7 @@ Morse code:
 - Make sure to separate Morse code characters with spaces when providing input.
   
 ## 👨‍💻 Author
-- Paschalis
+- [![Paschalis M.](https://img.shields.io/badge/GitHub-Paschalis_M.-007FFF?style=flat&logo=github)](https://github.com/Paschalis)
   
 ## 🤝 Contributing
 
